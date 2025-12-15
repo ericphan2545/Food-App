@@ -1,0 +1,18 @@
+# Gradle
+.gradle/
+build/
+
+# Local config
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS rác rưởi
+.DS_Store
+Thumbs.db
+
