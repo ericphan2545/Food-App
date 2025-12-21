@@ -1,0 +1,370 @@
+[
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_ic_logo.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\ic_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_ic_recipe.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\ic_recipe.xml"
+    },
+    {
+        "merged": "com.example.foodapp-merged_res-40:/drawable_bg_checkbox_selector.xml.flat",
+        "source": "com.example.foodapp-main-42:/drawable/bg_checkbox_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_bg_circle_green.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\bg_circle_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_bg_circle_orange.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\bg_circle_orange.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_ic_calories.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\ic_calories.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_ic_time.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\ic_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_bg_circle_red.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\bg_circle_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_bg_favorite_button.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\bg_favorite_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\layout_activity_nutrition.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\layout\\activity_nutrition.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_ic_google.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\ic_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_ic_person_filled.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\ic_person_filled.xml"
+    },
+    {
+        "merged": "com.example.foodapp-merged_res-40:/drawable_bg_checkbox_unselected.xml.flat",
+        "source": "com.example.foodapp-main-42:/drawable/bg_checkbox_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\layout_activity_edit_profile.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_ic_filter.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\ic_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\layout_activity_forgot_password.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_img_spaghetti.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\img_spaghetti.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\layout_activity_recipe_detail.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\layout\\activity_recipe_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_ic_home_filled.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\ic_home_filled.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_img_salad.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\img_salad.xml"
+    },
+    {
+        "merged": "com.example.foodapp-merged_res-40:/drawable_ic_check_white.xml.flat",
+        "source": "com.example.foodapp-main-42:/drawable/ic_check_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_bg_input_field.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\bg_input_field.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_progress_protein.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\progress_protein.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\layout_item_step.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\layout\\item_step.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\anim_scale_up.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\anim\\scale_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_ic_visibility.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\ic_visibility.xml"
+    },
+    {
+        "merged": "com.example.foodapp-merged_res-40:/layout_item_recipe.xml.flat",
+        "source": "com.example.foodapp-main-42:/layout/item_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_ic_visibility_off.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\ic_visibility_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_bg_calorie_progress.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\bg_calorie_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.foodapp-merged_res-40:/drawable_ic_delete_red.xml.flat",
+        "source": "com.example.foodapp-main-42:/drawable/ic_delete_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_bg_chip_selected.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\bg_chip_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_img_burger.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\img_burger.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_img_lava_cake.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\img_lava_cake.xml"
+    },
+    {
+        "merged": "com.example.foodapp-merged_res-40:/drawable_ic_delete.xml.flat",
+        "source": "com.example.foodapp-main-42:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_img_placeholder.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\img_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\mipmap-hdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_ic_favorite_filled.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\ic_favorite_filled.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_bg_button_green.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\bg_button_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_img_pho.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\img_pho.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_ic_add_circle.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\ic_add_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\layout_activity_add_recipe.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\layout\\activity_add_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_ic_add_photo.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\ic_add_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\layout_activity_my_recipes.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\layout\\activity_my_recipes.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_progress_carbs.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\progress_carbs.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\layout_activity_favorites.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\layout\\activity_favorites.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_img_fruit_tart.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\img_fruit_tart.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_ic_favorite.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\ic_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\layout_activity_recipe_instructions.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\layout\\activity_recipe_instructions.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_progress_fat.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\progress_fat.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_bg_chip_unselected.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\bg_chip_unselected.xml"
+    },
+    {
+        "merged": "com.example.foodapp-merged_res-40:/drawable_bg_checkbox_selected.xml.flat",
+        "source": "com.example.foodapp-main-42:/drawable/bg_checkbox_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_bg_step_number.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\bg_step_number.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_bg_card_recipe.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\bg_card_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_bg_button_outline.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\bg_button_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_bg_search_bar.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\bg_search_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_ic_lock_reset.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\ic_lock_reset.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_ic_calories_white.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\ic_calories_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_ic_dark_mode.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\ic_dark_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_bg_calorie_circle.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\bg_calorie_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_bg_button_google.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\bg_button_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_ic_lock.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\ic_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_bg_nutrition_tab.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\bg_nutrition_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_bg_circle_yellow.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\bg_circle_yellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_ic_light_mode.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\ic_light_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_bg_filter_button.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\bg_filter_button.xml"
+    },
+    {
+        "merged": "com.example.foodapp-merged_res-40:/layout_activity_my_recipes.xml.flat",
+        "source": "com.example.foodapp-main-42:/layout/activity_my_recipes.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_ic_share.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\ic_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_img_soup.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\img_soup.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_ic_profile_placeholder.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\ic_profile_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_ic_profile_green.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\ic_profile_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\layout_item_ingredient.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\layout\\item_ingredient.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\anim_bounce.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\anim\\bounce.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\layout_item_recipe.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\layout\\item_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\mipmap-hdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_ic_chevron_right.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\ic_chevron_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_ic_user.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\ic_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-merged_res-40:\\drawable_ic_edit.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.13\\com.example.foodapp-main-42:\\drawable\\ic_edit.xml"
+    }
+]

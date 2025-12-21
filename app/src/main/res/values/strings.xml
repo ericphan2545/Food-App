@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Thư viện món ăn</string>
+    
+    <!-- Firebase Web Client ID - Replace with your actual Web Client ID from Firebase Console -->
+    <string name="default_web_client_id">YOUR_WEB_CLIENT_ID</string>
+    
+    <!-- Login Screen -->
+    <string name="login_title">Đăng nhập</string>
+    <string name="hint_email">Email hoặc Tên đăng nhập</string>
+    <string name="hint_password">Mật khẩu</string>
+    <string name="forgot_password">Quên mật khẩu?</string>
+    <string name="btn_login">Đăng nhập</string>
+    <string name="no_account">Chưa có tài khoản?</string>
+    <string name="register_now">Đăng ký ngay</string>
+    
+    <!-- Home Screen -->
+    <string name="library_title">Thư viện món ăn</string>
+    <string name="home_question">Bạn sẽ làm món gì hôm nay?</string>
+    <string name="search_hint">Tìm kiếm món ăn...</string>
+    <string name="tab_all">Tất cả</string>
+    <string name="tab_main_dish">Món chính</string>
+    <string name="tab_dessert">Tráng miệng</string>
+    <string name="tab_appetizer">Khai vị</string>
+    <string name="tab_soup">Món nước</string>
+    
+    <!-- Bottom Navigation -->
+    <string name="nav_home">Trang chủ</string>
+    <string name="nav_favorites">Yêu thích</string>
+    <string name="nav_add">Thêm món</string>
+    <string name="nav_profile">Cá nhân</string>
+    
+    <!-- Recipe Detail -->
+    <string name="recipe_detail">Chi tiết món ăn</string>
+    <string name="tab_ingredients">Nguyên liệu</string>
+    <string name="tab_instructions">Cách chế biến</string>
+    <string name="tab_nutrition">Dinh dưỡng</string>
+    
+    <!-- Nutrition Screen -->
+    <string name="nutrition_info">Thông tin dinh dưỡng</string>
+    <string name="per_serving">Thông tin trên 1 khẩu phần ăn</string>
+    <string name="calories">Calories</string>
+    <string name="protein">Protein</string>
+    <string name="carbs">Carbs</string>
+    <string name="fat">Chất béo</string>
+    <string name="nutrition_detail">Chi tiết dinh dưỡng</string>
+    
+    <!-- Time -->
+    <string name="minutes">phút</string>
+</resources>
