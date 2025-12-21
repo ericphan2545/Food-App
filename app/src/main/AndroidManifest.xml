@@ -2,7 +2,13 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="32" />
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+
     <application
+        android:name=".FoodApp"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
@@ -10,16 +16,81 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.FoodApp">
+        android:theme="@style/Theme.FoodApp"
+        android:usesCleartextTraffic="true"
+        tools:targetApi="31">
+
         <activity
-            android:name=".MainActivity"
-            android:exported="true">
+            android:name=".LoginActivity"
+            android:exported="true"
+            android:theme="@style/Theme.FoodApp">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity
+            android:name=".RegisterActivity"
+            android:exported="false"
+            android:theme="@style/Theme.FoodApp" />
+
+        <activity
+            android:name=".ForgotPasswordActivity"
+            android:exported="false"
+            android:theme="@style/Theme.FoodApp" />
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"
+            android:theme="@style/Theme.FoodApp" />
+
+        <activity
+            android:name=".RecipeDetailActivity"
+            android:exported="false"
+            android:theme="@style/Theme.FoodApp" />
+
+        <activity
+            android:name=".RecipeInstructionsActivity"
+            android:exported="false"
+            android:theme="@style/Theme.FoodApp" />
+
+        <activity
+            android:name=".NutritionActivity"
+            android:exported="false"
+            android:theme="@style/Theme.FoodApp" />
+
+        <activity
+            android:name=".FavoritesActivity"
+            android:exported="false"
+            android:theme="@style/Theme.FoodApp" />
+
+        <activity
+            android:name=".AddRecipeActivity"
+            android:exported="false"
+            android:theme="@style/Theme.FoodApp" />
+
+        <activity
+            android:name=".ProfileActivity"
+            android:exported="false"
+            android:theme="@style/Theme.FoodApp" />
+
+        <activity
+            android:name=".MyRecipesActivity"
+            android:exported="false"
+            android:theme="@style/Theme.FoodApp" />
+
+        <activity
+            android:name=".EditProfileActivity"
+            android:exported="false"
+            android:theme="@style/Theme.FoodApp" />
+
+        <activity
+            android:name=".SettingsActivity"
+            android:exported="false"
+            android:theme="@style/Theme.FoodApp" />
+
     </application>
 
 </manifest>
+
