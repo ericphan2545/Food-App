@@ -1,0 +1,96 @@
+﻿FIFTH WEEK
+Each week, each group is required to present their project.   Show your tutor:
+ 
+· What (you are delivering);
+· When (you will be delivering);
+· Why (you have recommended the artefacts you are delivering);
+· Who (on your team is building what);
+· How much (time you plan to spend on your project and time you have spent on your project.  What is the gap and what are you doing about it)
+· Top risks last week
+· Major changes last week  (including scope)
+· Key issues last week 
+Presentation Properties
+Use models rather than words.
+ 
+Your tutors are looking for the ‘big picture’ that describes your project.  Be prepared to answer with detail at question time.
+
+
+This week’s specials
+YYour team must deliver an overview of your mobile application design, showing both:
+* how your application architecture has evolved, and
+
+* what you plan to complete by the end of the semester.
+
+Specifically, you must present:
+1. The Models Used to Design & Manage Your Mobile App
+Provide visual models, such as:
+   * App Architecture Diagram (MVVM / MVP / Flutter Architecture / SwiftUI flow)
+
+   * Navigation Flow Diagram
+
+   * API Interaction / Backend Communication Diagram
+
+   * Database / Local Storage Schema
+
+   * UI/UX Wireframes or Component Tree
+
+   * Sprint or Kanban Board structure (if used for planning)
+
+These models should clearly explain how the app works end-to-end.
+________________
+
+
+2. Quality Measures Used for Each Model
+Describe the quality frameworks and checks applied, such as:
+      * Code Quality Measures
+
+         * Clean Architecture principles
+
+         * SOLID, DRY, KISS
+
+         * Linting & static analysis
+
+         * Modularization
+
+            * UI/UX Quality Measures
+
+               * Consistency rules
+
+               * Accessibility guidelines (contrast, tap target sizes, etc.)
+
+               * Material Design / Human Interface Guidelines compliance
+
+                  * Performance Measures
+
+                     * Frame rate performance
+
+                     * Memory usage
+
+                     * Network efficiency
+
+                     * Battery impact analysis
+
+                        * Testing Measures
+
+                           * Unit tests (ViewModel, controllers, services)
+
+                           * UI tests
+
+                           * Integration tests
+
+                           * Manual test cases / QA checklist
+
+Explain how you know your mobile app is working well.
+
+
+Goal of Week 5
+By the end of this week, the team should demonstrate:
+                              * A coherent, evolving architecture
+
+                              * Clear modeling of UI, data, and logic layers
+
+                              * Strong quality-control practices
+
+                              * A working prototype aligned with design principles
+
+                              * A roadmap to complete the final version of the app
