@@ -2,6 +2,8 @@ package com.example.foodapp;
 
 import android.app.Application;
 
+import com.example.foodapp.activities.SettingsActivity;
+
 public class FoodApp extends Application {
     
     @Override

@@ -1,4 +1,6 @@
-package com.example.foodapp;
+package com.example.foodapp.activities;
+
+import com.example.foodapp.R;
 
 import android.os.Bundle;
 import android.util.Patterns;

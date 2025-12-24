@@ -22,7 +22,7 @@
         tools:targetApi="31">
 
         <activity
-            android:name=".LoginActivity"
+            android:name=".activities.LoginActivity"
             android:exported="true"
             android:theme="@style/Theme.FoodApp">
             <intent-filter>
@@ -32,62 +32,62 @@
         </activity>
 
         <activity
-            android:name=".RegisterActivity"
+            android:name=".activities.RegisterActivity"
             android:exported="false"
             android:theme="@style/Theme.FoodApp" />
 
         <activity
-            android:name=".ForgotPasswordActivity"
+            android:name=".activities.ForgotPasswordActivity"
             android:exported="false"
             android:theme="@style/Theme.FoodApp" />
 
         <activity
-            android:name=".MainActivity"
+            android:name=".activities.MainActivity"
             android:exported="false"
             android:theme="@style/Theme.FoodApp" />
 
         <activity
-            android:name=".RecipeDetailActivity"
+            android:name=".activities.RecipeDetailActivity"
             android:exported="false"
             android:theme="@style/Theme.FoodApp" />
 
         <activity
-            android:name=".RecipeInstructionsActivity"
+            android:name=".activities.RecipeInstructionsActivity"
             android:exported="false"
             android:theme="@style/Theme.FoodApp" />
 
         <activity
-            android:name=".NutritionActivity"
+            android:name=".activities.NutritionActivity"
             android:exported="false"
             android:theme="@style/Theme.FoodApp" />
 
         <activity
-            android:name=".FavoritesActivity"
+            android:name=".activities.FavoritesActivity"
             android:exported="false"
             android:theme="@style/Theme.FoodApp" />
 
         <activity
-            android:name=".AddRecipeActivity"
+            android:name=".activities.AddRecipeActivity"
             android:exported="false"
             android:theme="@style/Theme.FoodApp" />
 
         <activity
-            android:name=".ProfileActivity"
+            android:name=".activities.ProfileActivity"
             android:exported="false"
             android:theme="@style/Theme.FoodApp" />
 
         <activity
-            android:name=".MyRecipesActivity"
+            android:name=".activities.MyRecipesActivity"
             android:exported="false"
             android:theme="@style/Theme.FoodApp" />
 
         <activity
-            android:name=".EditProfileActivity"
+            android:name=".activities.EditProfileActivity"
             android:exported="false"
             android:theme="@style/Theme.FoodApp" />
 
         <activity
-            android:name=".SettingsActivity"
+            android:name=".activities.SettingsActivity"
             android:exported="false"
             android:theme="@style/Theme.FoodApp" />
 

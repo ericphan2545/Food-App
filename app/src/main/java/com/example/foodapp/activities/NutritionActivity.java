@@ -1,4 +1,6 @@
-package com.example.foodapp;
+package com.example.foodapp.activities;
+
+import com.example.foodapp.R;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
@@ -11,6 +13,8 @@ import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.bumptech.glide.Glide;
+
+import com.example.foodapp.models.Recipe;
 
 public class NutritionActivity extends AppCompatActivity {
 

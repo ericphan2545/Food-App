@@ -1,4 +1,6 @@
-package com.example.foodapp;
+package com.example.foodapp.activities;
+
+import com.example.foodapp.R;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -22,6 +24,9 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
+
+import com.example.foodapp.models.Recipe;
+import com.example.foodapp.adapters.RecipeAdapter;
 
 public class MyRecipesActivity extends AppCompatActivity {
 

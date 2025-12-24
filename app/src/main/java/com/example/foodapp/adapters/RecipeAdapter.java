@@ -1,4 +1,4 @@
-package com.example.foodapp;
+package com.example.foodapp.adapters;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -20,6 +20,9 @@ import com.bumptech.glide.request.RequestOptions;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
+
+import com.example.foodapp.R;
+import com.example.foodapp.models.Recipe;
 
 public class RecipeAdapter extends RecyclerView.Adapter<RecipeAdapter.RecipeViewHolder> {
 

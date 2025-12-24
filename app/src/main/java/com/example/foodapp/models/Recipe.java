@@ -1,4 +1,4 @@
-package com.example.foodapp;
+package com.example.foodapp.models;
 
 import com.google.gson.annotations.SerializedName; // 1. Import thư viện này
 import java.io.Serializable;

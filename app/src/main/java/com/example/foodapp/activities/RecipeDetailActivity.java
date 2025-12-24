@@ -1,4 +1,6 @@
-package com.example.foodapp;
+package com.example.foodapp.activities;
+
+import com.example.foodapp.R;
 
 import android.content.Intent;
 import android.graphics.Bitmap;
@@ -24,6 +26,8 @@ import com.google.firebase.firestore.FirebaseFirestore;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+
+import com.example.foodapp.models.Recipe;
 
 public class RecipeDetailActivity extends AppCompatActivity {
 

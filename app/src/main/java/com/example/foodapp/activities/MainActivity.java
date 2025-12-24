@@ -1,4 +1,6 @@
-package com.example.foodapp;
+package com.example.foodapp.activities;
+
+import com.example.foodapp.R;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -30,6 +32,10 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import com.example.foodapp.models.Recipe;
+import com.example.foodapp.adapters.RecipeAdapter;
+import com.example.foodapp.services.RecipeApiService;
 
 public class MainActivity extends AppCompatActivity {
 
