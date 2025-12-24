@@ -1,4 +1,4 @@
-package com.finalterm.foodapp;
+package com.example.foodapp;
 
 import android.os.Bundle;
 import android.util.Patterns;

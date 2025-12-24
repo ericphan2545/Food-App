@@ -1,7 +1,6 @@
-package com.finalterm.foodapp;
+package com.example.foodapp;
 
 import java.util.List;
-
 import retrofit2.Call;
 import retrofit2.http.GET;
 

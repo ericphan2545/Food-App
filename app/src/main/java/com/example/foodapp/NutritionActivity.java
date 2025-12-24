@@ -1,4 +1,4 @@
-package com.finalterm.foodapp;
+package com.example.foodapp;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;

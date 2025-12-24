@@ -1,4 +1,4 @@
-package com.finalterm.foodapp;
+package com.example.foodapp;
 
 import com.google.gson.annotations.SerializedName; // 1. Import thư viện này
 import java.io.Serializable;
@@ -49,6 +49,8 @@ public class Recipe implements Serializable {
     
     @SerializedName("imageBase64")
     private String imageBase64; // Ảnh dạng Base64 cho Firestore (thay thế Firebase Storage)
+    
+    private String documentId; // Firestore document ID để xóa
 
     // --- CONSTRUCTORS ---
 
@@ -133,4 +135,7 @@ public class Recipe implements Serializable {
 
     public String getImageBase64() { return imageBase64; }
     public void setImageBase64(String imageBase64) { this.imageBase64 = imageBase64; }
+    
+    public String getDocumentId() { return documentId; }
+    public void setDocumentId(String documentId) { this.documentId = documentId; }
 }

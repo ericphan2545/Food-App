@@ -1,4 +1,4 @@
-package com.finalterm.foodapp;
+package com.example.foodapp;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -7,6 +7,7 @@ import android.util.Base64;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.CheckBox;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -16,16 +17,25 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.request.RequestOptions;
 
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 public class RecipeAdapter extends RecyclerView.Adapter<RecipeAdapter.RecipeViewHolder> {
 
     private Context context;
     private List<Recipe> recipeList;
     private OnRecipeClickListener listener;
+    private boolean isSelectionMode = false;
+    private Set<Integer> selectedPositions = new HashSet<>();
+    private OnSelectionChangeListener selectionChangeListener;
 
     public interface OnRecipeClickListener {
         void onRecipeClick(Recipe recipe);
+    }
+
+    public interface OnSelectionChangeListener {
+        void onSelectionChanged(int selectedCount);
     }
 
     public RecipeAdapter(Context context, List<Recipe> recipeList, OnRecipeClickListener listener) {
@@ -83,9 +93,35 @@ public class RecipeAdapter extends RecyclerView.Adapter<RecipeAdapter.RecipeView
             holder.ivFavorite.setVisibility(recipe.isFavorite() ? View.VISIBLE : View.GONE);
         }
 
+        // Handle selection mode
+        if (holder.cbSelect != null) {
+            holder.cbSelect.setVisibility(isSelectionMode ? View.VISIBLE : View.GONE);
+            holder.cbSelect.setChecked(selectedPositions.contains(position));
+            
+            holder.cbSelect.setOnCheckedChangeListener(null); // Clear previous listener
+            holder.cbSelect.setOnCheckedChangeListener((buttonView, isChecked) -> {
+                if (isChecked) {
+                    selectedPositions.add(position);
+                } else {
+                    selectedPositions.remove(position);
+                }
+                if (selectionChangeListener != null) {
+                    selectionChangeListener.onSelectionChanged(selectedPositions.size());
+                }
+            });
+        }
+
         holder.itemView.setOnClickListener(v -> {
-            if (listener != null) {
-                listener.onRecipeClick(recipe);
+            if (isSelectionMode) {
+                // Toggle selection when in selection mode
+                if (holder.cbSelect != null) {
+                    holder.cbSelect.setChecked(!holder.cbSelect.isChecked());
+                }
+            } else {
+                // Normal click behavior
+                if (listener != null) {
+                    listener.onRecipeClick(recipe);
+                }
             }
         });
     }
@@ -101,11 +137,43 @@ public class RecipeAdapter extends RecyclerView.Adapter<RecipeAdapter.RecipeView
         notifyDataSetChanged();
     }
 
+    public void setSelectionMode(boolean enabled) {
+        isSelectionMode = enabled;
+        if (!enabled) {
+            selectedPositions.clear();
+        }
+        notifyDataSetChanged();
+        if (selectionChangeListener != null) {
+            selectionChangeListener.onSelectionChanged(selectedPositions.size());
+        }
+    }
+
+    public boolean isSelectionMode() {
+        return isSelectionMode;
+    }
+
+    public Set<Integer> getSelectedPositions() {
+        return new HashSet<>(selectedPositions);
+    }
+
+    public void setOnSelectionChangeListener(OnSelectionChangeListener listener) {
+        this.selectionChangeListener = listener;
+    }
+
+    public void clearSelection() {
+        selectedPositions.clear();
+        notifyDataSetChanged();
+        if (selectionChangeListener != null) {
+            selectionChangeListener.onSelectionChanged(0);
+        }
+    }
+
     static class RecipeViewHolder extends RecyclerView.ViewHolder {
         ImageView ivRecipeImage;
         ImageView ivFavorite;
         TextView tvRecipeName;
         TextView tvRecipeTime;
+        CheckBox cbSelect;
 
         RecipeViewHolder(@NonNull View itemView) {
             super(itemView);
@@ -113,6 +181,7 @@ public class RecipeAdapter extends RecyclerView.Adapter<RecipeAdapter.RecipeView
             ivFavorite = itemView.findViewById(R.id.ivFavorite);
             tvRecipeName = itemView.findViewById(R.id.tvRecipeName);
             tvRecipeTime = itemView.findViewById(R.id.tvRecipeTime);
+            cbSelect = itemView.findViewById(R.id.cbSelect);
         }
     }
 }
