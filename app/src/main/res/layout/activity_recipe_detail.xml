@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:background="@color/background">
 
-    <!-- Header (No changes here) -->
+    <!-- Header -->
     <LinearLayout
         android:id="@+id/header"
         android:layout_width="match_parent"
@@ -74,7 +74,7 @@
             android:layout_height="wrap_content"
             android:orientation="vertical">
 
-            <!-- Recipe Image (No changes here) -->
+            <!-- Recipe Image -->
             <ImageView
                 android:id="@+id/ivRecipeImage"
                 android:layout_width="match_parent"
@@ -90,7 +90,7 @@
                 android:orientation="vertical"
                 android:padding="16dp">
 
-                <!-- Recipe Name & Description (No changes here) -->
+                <!-- Recipe Name -->
                 <TextView
                     android:id="@+id/tvRecipeName"
                     android:layout_width="match_parent"
@@ -100,6 +100,7 @@
                     android:textStyle="bold"
                     android:textColor="@color/text_primary" />
 
+                <!-- Recipe Description -->
                 <TextView
                     android:id="@+id/tvRecipeDescription"
                     android:layout_width="match_parent"
@@ -110,7 +111,7 @@
                     android:textColor="@color/text_secondary"
                     android:lineSpacingExtra="4dp" />
 
-                <!-- Quick Info (No changes here) -->
+                <!-- Quick Info -->
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -225,34 +226,11 @@
                     </LinearLayout>
                 </LinearLayout>
 
-                <!-- START: MODIFIED TABS SECTION -->
-
-                <!-- Prominent Nutrition Tab -->
-                <FrameLayout
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_horizontal"
-                    android:layout_marginTop="24dp"
-                    android:layout_marginBottom="16dp"
-                    android:background="@drawable/bg_nutrition_tab">
-
-                    <TextView
-                        android:id="@+id/tabNutrition"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:gravity="center"
-                        android:paddingVertical="8dp"
-                        android:paddingHorizontal="24dp"
-                        android:text="@string/tab_nutrition"
-                        android:textColor="@color/primary_green_dark"
-                        android:textSize="14sp"
-                        android:textStyle="bold"/>
-                </FrameLayout>
-
-                <!-- Ingredients and Instructions Tabs -->
+                <!-- Tabs -->
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
+                    android:layout_marginTop="24dp"
                     android:orientation="horizontal">
 
                     <TextView
@@ -260,26 +238,37 @@
                         android:layout_width="0dp"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        android:gravity="center"
-                        android:paddingBottom="12dp"
                         android:text="@string/tab_ingredients"
-                        android:textColor="@color/text_primary"
                         android:textSize="14sp"
-                        android:textStyle="bold" />
+                        android:textStyle="bold"
+                        android:textColor="@color/text_primary"
+                        android:gravity="center"
+                        android:paddingBottom="12dp" />
 
                     <TextView
                         android:id="@+id/tabInstructions"
                         android:layout_width="0dp"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        android:gravity="center"
-                        android:paddingBottom="12dp"
                         android:text="@string/tab_instructions"
+                        android:textSize="14sp"
                         android:textColor="@color/text_secondary"
-                        android:textSize="14sp" />
+                        android:gravity="center"
+                        android:paddingBottom="12dp" />
+
+                    <TextView
+                        android:id="@+id/tabNutrition"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="@string/tab_nutrition"
+                        android:textSize="14sp"
+                        android:textColor="@color/text_secondary"
+                        android:gravity="center"
+                        android:paddingBottom="12dp" />
                 </LinearLayout>
 
-                <!-- Tab Indicator Line (Now only for 2 tabs) -->
+                <!-- Tab Indicator Line -->
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="3dp"
@@ -299,16 +288,13 @@
                         android:layout_weight="1"
                         android:background="@color/gray_light" />
 
-                    <!-- The third indicator is removed -->
                     <View
                         android:id="@+id/tabIndicator3"
                         android:layout_width="0dp"
                         android:layout_height="match_parent"
-                        android:layout_weight="0"
-                        android:visibility="gone" />
+                        android:layout_weight="1"
+                        android:background="@color/gray_light" />
                 </LinearLayout>
-
-                <!-- END: MODIFIED TABS SECTION -->
 
                 <!-- Ingredients Content -->
                 <LinearLayout
