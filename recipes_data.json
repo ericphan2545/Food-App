@@ -1,0 +1,1196 @@
+[
+  {
+    "id": 1,
+    "name": "Cơm gà Hội An",
+    "imageUrl": "https://images.pexels.com/photos/5836649/pexels-photo-5836649.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món chính",
+    "time": "40 phút",
+    "servings": "1 người",
+    "calories": 650,
+    "ingredients": [
+      "1 bát gạo",
+      "150g ức gà",
+      "Rau thơm, hành",
+      "Nghệ tươi",
+      "Nước mắm, tiêu"
+    ],
+    "steps": [
+      "Luộc gà với gừng và hành",
+      "Nấu cơm bằng nước luộc gà và nghệ",
+      "Xé gà trộn với hành phi và gia vị",
+      "Dọn cơm kèm rau thơm và nước mắm"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Phở bò Hà Nội",
+    "imageUrl": "https://images.pexels.com/photos/1907244/pexels-photo-1907244.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món nước",
+    "time": "40 phút",
+    "servings": "1 người",
+    "calories": 550,
+    "ingredients": [
+      "200g bánh phở",
+      "150g thịt bò",
+      "Xương bò",
+      "Hành, gừng, quế, hồi",
+      "Rau thơm, giá đỗ"
+    ],
+    "steps": [
+      "Ninh xương bò với gừng nướng trong 4-5 tiếng",
+      "Thêm quế, hồi, thảo quả vào nước dùng",
+      "Trụng bánh phở, xếp thịt bò lên trên",
+      "Chan nước dùng nóng, thêm hành và rau thơm"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Bún chả Hà Nội",
+    "imageUrl": "https://images.pexels.com/photos/2313686/pexels-photo-2313686.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món chính",
+    "time": "45 phút",
+    "servings": "2 người",
+    "calories": 580,
+    "ingredients": [
+      "300g thịt ba chỉ",
+      "200g thịt nạc vai xay",
+      "200g bún tươi",
+      "Nước mắm, đường, tỏi",
+      "Rau sống, dưa góp"
+    ],
+    "steps": [
+      "Ướp thịt ba chỉ với nước mắm, đường, tỏi băm",
+      "Vo viên thịt xay, ướp gia vị tương tự",
+      "Nướng thịt trên than hoa đến vàng thơm",
+      "Pha nước chấm chua ngọt, thêm ớt tỏi",
+      "Dọn bún kèm thịt nướng, rau sống và nước chấm"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Bánh mì thịt",
+    "imageUrl": "https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món chính",
+    "time": "15 phút",
+    "servings": "1 người",
+    "calories": 450,
+    "ingredients": [
+      "1 ổ bánh mì",
+      "100g pate gan",
+      "80g chả lụa",
+      "Dưa leo, đồ chua",
+      "Rau mùi, ớt, xì dầu"
+    ],
+    "steps": [
+      "Nướng giòn bánh mì",
+      "Phết pate đều lên ruột bánh",
+      "Xếp chả lụa, thịt nguội lên",
+      "Thêm dưa leo, đồ chua, rau mùi",
+      "Rưới xì dầu và thêm ớt tùy khẩu vị"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Gỏi cuốn tôm thịt",
+    "imageUrl": "https://images.pexels.com/photos/955137/pexels-photo-955137.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Khai vị",
+    "time": "30 phút",
+    "servings": "2 người",
+    "calories": 180,
+    "ingredients": [
+      "10 tờ bánh tráng",
+      "200g tôm sú",
+      "150g thịt ba chỉ luộc",
+      "Bún, rau sống, húng quế",
+      "Đậu phộng, tương đen"
+    ],
+    "steps": [
+      "Luộc tôm và thịt ba chỉ, để nguội thái lát",
+      "Nhúng bánh tráng qua nước ấm",
+      "Xếp rau, bún, thịt, tôm lên bánh",
+      "Cuốn chặt tay từ dưới lên",
+      "Pha nước chấm tương đen với đậu phộng giã"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Bún bò Huế",
+    "imageUrl": "https://images.pexels.com/photos/699953/pexels-photo-699953.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món nước",
+    "time": "60 phút",
+    "servings": "2 người",
+    "calories": 620,
+    "ingredients": [
+      "300g bún tươi",
+      "200g bắp bò",
+      "100g giò heo",
+      "Sả, ớt, mắm ruốc",
+      "Rau muống, bắp chuối"
+    ],
+    "steps": [
+      "Ninh xương và giò heo trong 2 tiếng",
+      "Phi sả và ớt, thêm mắm ruốc tạo màu",
+      "Cho bắp bò vào hầm mềm",
+      "Trụng bún, xếp thịt, chan nước dùng nóng",
+      "Ăn kèm rau muống, bắp chuối bào"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Cá kho tộ",
+    "imageUrl": "https://images.pexels.com/photos/3763847/pexels-photo-3763847.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món chính",
+    "time": "50 phút",
+    "servings": "3 người",
+    "calories": 380,
+    "ingredients": [
+      "500g cá lóc hoặc cá basa",
+      "Nước màu (caramel)",
+      "Nước mắm, đường, tiêu",
+      "Hành lá, ớt, tỏi",
+      "Nước dừa tươi"
+    ],
+    "steps": [
+      "Cắt cá thành khúc, ướp với nước mắm và tiêu",
+      "Thắng nước màu trong nồi đất",
+      "Xếp cá vào, thêm nước dừa và gia vị",
+      "Kho lửa nhỏ 30-40 phút cho cá thấm",
+      "Rắc hành lá và tiêu trước khi tắt bếp"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Thịt kho tàu",
+    "imageUrl": "https://images.pexels.com/photos/6646069/pexels-photo-6646069.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món chính",
+    "time": "90 phút",
+    "servings": "4 người",
+    "calories": 520,
+    "ingredients": [
+      "500g thịt ba chỉ",
+      "6 quả trứng vịt",
+      "Nước dừa tươi",
+      "Nước mắm, đường, tỏi",
+      "Hành tím, tiêu"
+    ],
+    "steps": [
+      "Cắt thịt miếng vuông, ướp với nước mắm và tỏi",
+      "Luộc và bóc vỏ trứng vịt",
+      "Thắng nước màu, cho thịt vào đảo đều",
+      "Thêm nước dừa, hầm lửa nhỏ 1 tiếng",
+      "Cho trứng vào kho thêm 15 phút"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Canh chua cá",
+    "imageUrl": "https://images.pexels.com/photos/1731535/pexels-photo-1731535.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món nước",
+    "time": "35 phút",
+    "servings": "4 người",
+    "calories": 220,
+    "ingredients": [
+      "400g cá lóc",
+      "200g dứa (thơm)",
+      "Cà chua, đậu bắp, giá",
+      "Me, rau om, ngò gai",
+      "Nước mắm, đường"
+    ],
+    "steps": [
+      "Phi tỏi thơm, cho cà chua vào xào",
+      "Đổ nước, thêm me và dứa nấu sôi",
+      "Cho cá vào nấu chín",
+      "Thêm đậu bắp, giá, nêm gia vị",
+      "Rắc rau om, ngò gai trước khi tắt bếp"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Chả giò (Nem rán)",
+    "imageUrl": "https://images.pexels.com/photos/2098085/pexels-photo-2098085.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Khai vị",
+    "time": "45 phút",
+    "servings": "4 người",
+    "calories": 320,
+    "ingredients": [
+      "200g thịt heo xay",
+      "100g tôm băm",
+      "Miến, mộc nhĩ, cà rốt",
+      "Bánh tráng nem",
+      "Trứng, hành, tiêu"
+    ],
+    "steps": [
+      "Trộn thịt, tôm với miến, mộc nhĩ, cà rốt bào",
+      "Nêm gia vị, thêm trứng để kết dính",
+      "Cuốn nhân vào bánh tráng chặt tay",
+      "Chiên ngập dầu đến vàng giòn",
+      "Ăn kèm nước mắm chua ngọt và rau sống"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Cơm tấm sườn bì chả",
+    "imageUrl": "https://images.pexels.com/photos/5836649/pexels-photo-5836649.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món chính",
+    "time": "50 phút",
+    "servings": "1 người",
+    "calories": 750,
+    "ingredients": [
+      "1 bát cơm tấm",
+      "1 miếng sườn nướng",
+      "Bì heo, chả trứng",
+      "Đồ chua, dưa leo",
+      "Mỡ hành, nước mắm"
+    ],
+    "steps": [
+      "Ướp sườn với sả, tỏi, nước mắm, mật ong",
+      "Nướng sườn trên than hoặc lò",
+      "Trộn bì với thính gạo",
+      "Hấp chả trứng",
+      "Dọn cơm với sườn, bì, chả và mỡ hành"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Mì Quảng",
+    "imageUrl": "https://images.pexels.com/photos/1907244/pexels-photo-1907244.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món nước",
+    "time": "45 phút",
+    "servings": "2 người",
+    "calories": 480,
+    "ingredients": [
+      "300g mì Quảng",
+      "200g tôm, 150g thịt heo",
+      "Đậu phộng rang, bánh tráng",
+      "Rau sống, hành lá",
+      "Nghệ, dầu điều"
+    ],
+    "steps": [
+      "Xào tôm và thịt với nghệ và dầu điều",
+      "Thêm nước, nấu thành nước lèo sệt",
+      "Trụng mì, xếp ra tô",
+      "Chan nước lèo, thêm tôm thịt",
+      "Rắc đậu phộng, ăn kèm bánh tráng và rau"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Bánh xèo",
+    "imageUrl": "https://images.pexels.com/photos/5409015/pexels-photo-5409015.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món chính",
+    "time": "40 phút",
+    "servings": "3 người",
+    "calories": 420,
+    "ingredients": [
+      "200g bột bánh xèo",
+      "200g tôm, 150g thịt ba chỉ",
+      "Giá đỗ, hành lá",
+      "Nước cốt dừa, nghệ",
+      "Rau sống, nước mắm chua ngọt"
+    ],
+    "steps": [
+      "Pha bột với nước cốt dừa và nghệ",
+      "Xào tôm thịt sơ qua",
+      "Đổ bột vào chảo nóng, thêm nhân và giá",
+      "Đậy nắp, chiên đến giòn vàng",
+      "Gập đôi bánh, ăn kèm rau và nước chấm"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Hủ tiếu Nam Vang",
+    "imageUrl": "https://images.pexels.com/photos/1907244/pexels-photo-1907244.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món nước",
+    "time": "35 phút",
+    "servings": "1 người",
+    "calories": 450,
+    "ingredients": [
+      "200g hủ tiếu khô",
+      "100g thịt heo, 100g tôm",
+      "Gan, tim heo",
+      "Giá, hẹ, hành phi",
+      "Xương heo ninh"
+    ],
+    "steps": [
+      "Ninh xương heo lấy nước dùng trong",
+      "Trụng hủ tiếu, xếp ra tô",
+      "Xếp thịt, tôm, gan, tim lên trên",
+      "Chan nước dùng nóng",
+      "Rắc hành phi, ăn kèm giá và hẹ"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Bò lúc lắc",
+    "imageUrl": "https://images.pexels.com/photos/3535383/pexels-photo-3535383.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món chính",
+    "time": "20 phút",
+    "servings": "2 người",
+    "calories": 380,
+    "ingredients": [
+      "300g thịt bò thăn",
+      "Tỏi, hành tây",
+      "Xì dầu, dầu hào",
+      "Tiêu đen, bơ",
+      "Cà chua, xà lách"
+    ],
+    "steps": [
+      "Cắt bò thành hạt lựu, ướp xì dầu và tiêu",
+      "Đun nóng chảo với bơ và tỏi",
+      "Cho bò vào xào lửa lớn nhanh tay",
+      "Thêm hành tây, nêm dầu hào",
+      "Dọn kèm cà chua, xà lách và cơm trắng"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Gà nướng muối ớt",
+    "imageUrl": "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món chính",
+    "time": "60 phút",
+    "servings": "4 người",
+    "calories": 420,
+    "ingredients": [
+      "1 con gà ta (1.2kg)",
+      "Muối hạt, ớt bột",
+      "Sả, tỏi, gừng",
+      "Mật ong, nước mắm",
+      "Lá chanh"
+    ],
+    "steps": [
+      "Làm sạch gà, chặt miếng vừa ăn",
+      "Ướp gà với muối, ớt, sả, tỏi băm",
+      "Để ngấm gia vị 30 phút",
+      "Nướng gà trên than hoặc lò 200°C",
+      "Phết mật ong, nướng thêm 5 phút cho vàng"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Lẩu thái hải sản",
+    "imageUrl": "https://images.pexels.com/photos/7438979/pexels-photo-7438979.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món nước",
+    "time": "40 phút",
+    "servings": "4 người",
+    "calories": 350,
+    "ingredients": [
+      "500g hải sản các loại",
+      "Nấm, đậu hũ, rau",
+      "Sả, riềng, lá chanh",
+      "Ớt, nước cốt chanh",
+      "Nước mắm, sa tế"
+    ],
+    "steps": [
+      "Nấu nước dùng với sả, riềng, lá chanh",
+      "Thêm sa tế và ớt tạo vị cay",
+      "Cho hải sản, nấm, đậu hũ vào",
+      "Nêm nước mắm và nước cốt chanh",
+      "Nhúng rau và bún ăn kèm"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Cháo lòng",
+    "imageUrl": "https://images.pexels.com/photos/1731535/pexels-photo-1731535.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món nước",
+    "time": "50 phút",
+    "servings": "2 người",
+    "calories": 380,
+    "ingredients": [
+      "200g gạo",
+      "300g lòng heo các loại",
+      "Huyết heo",
+      "Hành lá, gừng, tiêu",
+      "Giá, rau mùi, quẩy"
+    ],
+    "steps": [
+      "Làm sạch lòng với muối và giấm",
+      "Luộc lòng với gừng, thái lát",
+      "Nấu cháo nhừ với nước luộc lòng",
+      "Xếp lòng và huyết lên cháo",
+      "Rắc hành, tiêu, ăn kèm quẩy và giá"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Bún riêu cua",
+    "imageUrl": "https://images.pexels.com/photos/699953/pexels-photo-699953.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món nước",
+    "time": "55 phút",
+    "servings": "3 người",
+    "calories": 420,
+    "ingredients": [
+      "300g bún tươi",
+      "200g cua đồng",
+      "Cà chua, đậu hũ chiên",
+      "Mắm tôm, me",
+      "Rau muống, hành lá"
+    ],
+    "steps": [
+      "Giã cua, lọc lấy nước và gạch",
+      "Nấu nước cua sôi, gạch nổi lên thành riêu",
+      "Xào cà chua, thêm nước cua và me",
+      "Cho đậu hũ chiên vào",
+      "Trụng bún, chan nước riêu, thêm mắm tôm"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Xôi gà",
+    "imageUrl": "https://images.pexels.com/photos/5836649/pexels-photo-5836649.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món chính",
+    "time": "60 phút",
+    "servings": "2 người",
+    "calories": 580,
+    "ingredients": [
+      "300g gạo nếp",
+      "200g thịt gà",
+      "Hành phi, mỡ gà",
+      "Nước mắm, tiêu",
+      "Dưa leo, rau mùi"
+    ],
+    "steps": [
+      "Ngâm gạo nếp 4 tiếng, để ráo",
+      "Luộc gà, lấy nước trộn vào nếp",
+      "Hấp xôi chín dẻo",
+      "Xé gà, trộn với mỡ gà và gia vị",
+      "Dọn xôi với gà xé, hành phi và dưa leo"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Bánh cuốn",
+    "imageUrl": "https://images.pexels.com/photos/2664216/pexels-photo-2664216.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món chính",
+    "time": "45 phút",
+    "servings": "2 người",
+    "calories": 320,
+    "ingredients": [
+      "300g bột gạo",
+      "150g thịt heo xay",
+      "Mộc nhĩ, hành khô",
+      "Chả lụa, hành phi",
+      "Nước mắm chua ngọt"
+    ],
+    "steps": [
+      "Xào thịt với mộc nhĩ và hành",
+      "Tráng bột mỏng trên vải hấp",
+      "Cho nhân vào, cuộn lại",
+      "Xếp bánh ra đĩa, rắc hành phi",
+      "Ăn kèm chả lụa và nước mắm chua ngọt"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Bún đậu mắm tôm",
+    "imageUrl": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món chính",
+    "time": "30 phút",
+    "servings": "2 người",
+    "calories": 520,
+    "ingredients": [
+      "300g bún lá",
+      "200g đậu hũ chiên",
+      "Chả cốm, nem chua",
+      "Thịt luộc, dồi",
+      "Mắm tôm, quất"
+    ],
+    "steps": [
+      "Chiên đậu hũ vàng giòn",
+      "Luộc thịt, thái lát",
+      "Cắt bún thành miếng vừa ăn",
+      "Pha mắm tôm với quất và đường",
+      "Bày tất cả ra đĩa, chấm mắm tôm"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Bánh canh cua",
+    "imageUrl": "https://images.pexels.com/photos/1907244/pexels-photo-1907244.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món nước",
+    "time": "40 phút",
+    "servings": "2 người",
+    "calories": 450,
+    "ingredients": [
+      "300g bánh canh bột lọc",
+      "200g thịt cua",
+      "Trứng cút, chả lụa",
+      "Hành, tiêu, nước mắm",
+      "Rau mùi, hành phi"
+    ],
+    "steps": [
+      "Nấu nước dùng từ vỏ cua",
+      "Thêm thịt cua vào, nêm gia vị",
+      "Cho bánh canh vào nấu mềm",
+      "Thêm trứng cút và chả lụa",
+      "Rắc hành phi và tiêu trước khi ăn"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Cơm chiên dương châu",
+    "imageUrl": "https://images.pexels.com/photos/723198/pexels-photo-723198.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món chính",
+    "time": "25 phút",
+    "servings": "2 người",
+    "calories": 480,
+    "ingredients": [
+      "2 bát cơm nguội",
+      "100g tôm, 100g lạp xưởng",
+      "2 quả trứng",
+      "Đậu Hà Lan, cà rốt",
+      "Hành lá, xì dầu"
+    ],
+    "steps": [
+      "Xào trứng chín, để riêng",
+      "Xào tôm và lạp xưởng thái hạt lựu",
+      "Cho cơm vào xào lửa lớn",
+      "Thêm rau củ, trứng, nêm xì dầu",
+      "Rắc hành lá, đảo đều và dọn ra"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Gà kho gừng",
+    "imageUrl": "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món chính",
+    "time": "45 phút",
+    "servings": "3 người",
+    "calories": 380,
+    "ingredients": [
+      "500g thịt gà",
+      "100g gừng tươi",
+      "Nước mắm, đường",
+      "Hành tím, tỏi",
+      "Tiêu, ớt"
+    ],
+    "steps": [
+      "Chặt gà miếng vừa, ướp nước mắm",
+      "Thái gừng sợi, phi thơm với dầu",
+      "Cho gà vào xào săn",
+      "Thêm nước, kho lửa nhỏ 30 phút",
+      "Nêm gia vị, rắc tiêu và hành"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Tôm rim mặn ngọt",
+    "imageUrl": "https://images.pexels.com/photos/3296279/pexels-photo-3296279.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món chính",
+    "time": "25 phút",
+    "servings": "2 người",
+    "calories": 280,
+    "ingredients": [
+      "400g tôm sú",
+      "Nước mắm, đường",
+      "Tỏi, ớt, hành",
+      "Tiêu đen",
+      "Dầu ăn"
+    ],
+    "steps": [
+      "Cắt râu tôm, rửa sạch để ráo",
+      "Phi tỏi thơm, cho tôm vào xào",
+      "Thêm nước mắm và đường rim",
+      "Đảo đều đến khi tôm săn và bóng",
+      "Rắc tiêu và hành lá, tắt bếp"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Canh khổ qua nhồi thịt",
+    "imageUrl": "https://images.pexels.com/photos/1731535/pexels-photo-1731535.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món nước",
+    "time": "40 phút",
+    "servings": "4 người",
+    "calories": 180,
+    "ingredients": [
+      "2 quả khổ qua",
+      "200g thịt heo xay",
+      "Mộc nhĩ, miến",
+      "Hành, tiêu, nước mắm",
+      "Hành lá"
+    ],
+    "steps": [
+      "Cắt khổ qua khúc, bỏ ruột",
+      "Trộn thịt với mộc nhĩ, miến, gia vị",
+      "Nhồi thịt vào khổ qua",
+      "Nấu nước sôi, cho khổ qua vào",
+      "Hầm 25 phút, nêm nước mắm"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Thịt heo quay",
+    "imageUrl": "https://images.pexels.com/photos/6646069/pexels-photo-6646069.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món chính",
+    "time": "120 phút",
+    "servings": "6 người",
+    "calories": 450,
+    "ingredients": [
+      "1kg thịt ba chỉ",
+      "Ngũ vị hương, muối",
+      "Giấm, bột nở",
+      "Tỏi, hành tím",
+      "Mật ong"
+    ],
+    "steps": [
+      "Luộc sơ thịt, để ráo nước",
+      "Ướp mặt thịt với ngũ vị hương và tỏi",
+      "Xoa giấm và muối lên da",
+      "Để tủ lạnh qua đêm cho da khô",
+      "Quay ở 220°C đến khi da giòn vàng"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Vịt nấu chao",
+    "imageUrl": "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món nước",
+    "time": "70 phút",
+    "servings": "4 người",
+    "calories": 420,
+    "ingredients": [
+      "1/2 con vịt",
+      "Chao đỏ",
+      "Khoai môn, nấm rơm",
+      "Sả, gừng, tỏi",
+      "Rau muống, bún"
+    ],
+    "steps": [
+      "Chặt vịt miếng, ướp với chao và sả",
+      "Xào vịt săn, thêm nước hầm",
+      "Cho khoai môn vào nấu mềm",
+      "Thêm nấm rơm, nêm gia vị",
+      "Ăn kèm bún và rau muống"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Chè đậu xanh",
+    "imageUrl": "https://images.pexels.com/photos/1099680/pexels-photo-1099680.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Tráng miệng",
+    "time": "45 phút",
+    "servings": "4 người",
+    "calories": 220,
+    "ingredients": [
+      "200g đậu xanh cà vỏ",
+      "100g đường",
+      "Nước cốt dừa",
+      "Bột năng, muối",
+      "Lá dứa"
+    ],
+    "steps": [
+      "Ngâm đậu xanh 2 tiếng, hấp chín",
+      "Nấu nước đường với lá dứa",
+      "Cho đậu vào, khuấy tan",
+      "Nấu nước cốt dừa với chút muối",
+      "Múc chè ra bát, rưới nước cốt dừa"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Bánh flan",
+    "imageUrl": "https://images.pexels.com/photos/4110541/pexels-photo-4110541.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Tráng miệng",
+    "time": "50 phút",
+    "servings": "6 người",
+    "calories": 180,
+    "ingredients": [
+      "4 quả trứng",
+      "400ml sữa tươi",
+      "100g đường",
+      "Vani",
+      "Nước caramel"
+    ],
+    "steps": [
+      "Thắng đường thành caramel, đổ vào khuôn",
+      "Đánh trứng với sữa và đường",
+      "Thêm vani, lọc hỗn hợp qua rây",
+      "Đổ vào khuôn, hấp cách thủy 30 phút",
+      "Để nguội, úp ngược ra đĩa"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Chè ba màu",
+    "imageUrl": "https://images.pexels.com/photos/1099680/pexels-photo-1099680.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Tráng miệng",
+    "time": "30 phút",
+    "servings": "2 người",
+    "calories": 280,
+    "ingredients": [
+      "Đậu xanh, đậu đỏ",
+      "Thạch, nước cốt dừa",
+      "Đường, đá bào",
+      "Sữa đặc",
+      "Hạt lựu"
+    ],
+    "steps": [
+      "Nấu chín đậu xanh và đậu đỏ riêng",
+      "Cắt thạch thành hạt lựu",
+      "Xếp lớp đậu và thạch vào ly",
+      "Rưới nước cốt dừa và sữa đặc",
+      "Thêm đá bào lên trên"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Sườn xào chua ngọt",
+    "imageUrl": "https://images.pexels.com/photos/6646069/pexels-photo-6646069.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món chính",
+    "time": "40 phút",
+    "servings": "3 người",
+    "calories": 420,
+    "ingredients": [
+      "500g sườn non",
+      "Cà chua, dứa, ớt chuông",
+      "Tương cà, giấm",
+      "Đường, nước mắm",
+      "Hành, tỏi"
+    ],
+    "steps": [
+      "Chặt sườn miếng, ướp gia vị",
+      "Chiên sườn vàng, để riêng",
+      "Xào cà chua và dứa với sốt chua ngọt",
+      "Cho sườn vào đảo đều",
+      "Thêm ớt chuông, nêm vừa ăn"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Đậu hũ sốt cà",
+    "imageUrl": "https://images.pexels.com/photos/4518655/pexels-photo-4518655.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món chính",
+    "time": "25 phút",
+    "servings": "2 người",
+    "calories": 220,
+    "ingredients": [
+      "300g đậu hũ non",
+      "2 quả cà chua",
+      "Hành, tỏi",
+      "Nước mắm, đường",
+      "Hành lá, tiêu"
+    ],
+    "steps": [
+      "Cắt đậu hũ miếng vuông, chiên vàng",
+      "Phi tỏi, xào cà chua nhuyễn",
+      "Nêm nước mắm, đường tạo sốt",
+      "Cho đậu hũ vào sốt, đảo nhẹ",
+      "Rắc hành lá và tiêu"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Cá chiên xù",
+    "imageUrl": "https://images.pexels.com/photos/3763847/pexels-photo-3763847.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món chính",
+    "time": "30 phút",
+    "servings": "2 người",
+    "calories": 350,
+    "ingredients": [
+      "400g cá phi lê",
+      "Bột chiên xù",
+      "Trứng, bột mì",
+      "Sốt mayonnaise",
+      "Chanh, rau sống"
+    ],
+    "steps": [
+      "Cắt cá miếng vừa, ướp muối tiêu",
+      "Lăn cá qua bột mì, trứng, bột xù",
+      "Chiên ngập dầu đến vàng giòn",
+      "Vớt ra để ráo dầu",
+      "Ăn kèm sốt mayonnaise và chanh"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Rau muống xào tỏi",
+    "imageUrl": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món chính",
+    "time": "10 phút",
+    "servings": "2 người",
+    "calories": 80,
+    "ingredients": [
+      "300g rau muống",
+      "5 tép tỏi",
+      "Dầu ăn",
+      "Nước mắm, đường",
+      "Ớt (tùy chọn)"
+    ],
+    "steps": [
+      "Nhặt rau muống, rửa sạch để ráo",
+      "Băm nhỏ tỏi, phi vàng thơm",
+      "Cho rau vào xào lửa lớn nhanh tay",
+      "Nêm nước mắm và chút đường",
+      "Đảo đều, tắt bếp khi rau vừa chín"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Súp cua",
+    "imageUrl": "https://images.pexels.com/photos/1731535/pexels-photo-1731535.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Khai vị",
+    "time": "35 phút",
+    "servings": "4 người",
+    "calories": 180,
+    "ingredients": [
+      "200g thịt cua",
+      "2 quả trứng",
+      "Bắp, nấm rơm",
+      "Bột năng, hành",
+      "Tiêu, dầu mè"
+    ],
+    "steps": [
+      "Nấu nước dùng với xương gà",
+      "Thêm bắp và nấm rơm vào",
+      "Cho thịt cua, khuấy bột năng tạo sánh",
+      "Đánh trứng, rưới từ từ vào súp",
+      "Rắc tiêu, hành và dầu mè"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Bò né",
+    "imageUrl": "https://images.pexels.com/photos/3535383/pexels-photo-3535383.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món chính",
+    "time": "20 phút",
+    "servings": "1 người",
+    "calories": 550,
+    "ingredients": [
+      "150g thịt bò",
+      "2 quả trứng ốp la",
+      "Pate, xúc xích",
+      "Bánh mì, bơ",
+      "Hành tây, đồ chua"
+    ],
+    "steps": [
+      "Ướp bò với tiêu và dầu hào",
+      "Đun nóng chảo gang với bơ",
+      "Áp chảo bò, chiên trứng ốp la",
+      "Xếp pate, xúc xích lên chảo",
+      "Dọn kèm bánh mì và đồ chua"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Gỏi gà xé phay",
+    "imageUrl": "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Khai vị",
+    "time": "35 phút",
+    "servings": "3 người",
+    "calories": 220,
+    "ingredients": [
+      "300g ức gà",
+      "Bắp cải, hành tây",
+      "Rau răm, đậu phộng",
+      "Nước mắm, chanh, đường",
+      "Ớt, tỏi"
+    ],
+    "steps": [
+      "Luộc gà chín, xé sợi nhỏ",
+      "Bào mỏng bắp cải và hành tây",
+      "Pha nước mắm chua ngọt với tỏi ớt",
+      "Trộn gà với rau, rưới nước mắm",
+      "Rắc đậu phộng và rau răm"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Bánh bột lọc",
+    "imageUrl": "https://images.pexels.com/photos/2664216/pexels-photo-2664216.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Khai vị",
+    "time": "50 phút",
+    "servings": "4 người",
+    "calories": 180,
+    "ingredients": [
+      "200g bột năng",
+      "200g tôm",
+      "Thịt ba chỉ",
+      "Hành phi, nước mắm",
+      "Lá chuối"
+    ],
+    "steps": [
+      "Nhào bột năng với nước sôi",
+      "Xào tôm thịt với gia vị làm nhân",
+      "Cán bột mỏng, gói nhân vào",
+      "Hấp bánh trong lá chuối 15 phút",
+      "Ăn kèm nước mắm chua ngọt"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Cơm cháy chà bông",
+    "imageUrl": "https://images.pexels.com/photos/723198/pexels-photo-723198.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Khai vị",
+    "time": "30 phút",
+    "servings": "2 người",
+    "calories": 280,
+    "ingredients": [
+      "2 bát cơm nguội",
+      "100g chà bông",
+      "Mỡ hành",
+      "Dầu ăn",
+      "Nước mắm me"
+    ],
+    "steps": [
+      "Nén cơm thành miếng dẹt",
+      "Chiên cơm trong dầu nóng đến giòn",
+      "Vớt ra để ráo dầu",
+      "Phủ chà bông và mỡ hành lên",
+      "Ăn kèm nước mắm me"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Ốc len xào dừa",
+    "imageUrl": "https://images.pexels.com/photos/3296279/pexels-photo-3296279.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món chính",
+    "time": "25 phút",
+    "servings": "2 người",
+    "calories": 180,
+    "ingredients": [
+      "500g ốc len",
+      "Nước cốt dừa",
+      "Sả, ớt, lá chanh",
+      "Nước mắm, đường",
+      "Rau răm"
+    ],
+    "steps": [
+      "Ngâm ốc với nước vo gạo, rửa sạch",
+      "Phi sả và ớt thơm",
+      "Cho ốc vào xào, thêm nước cốt dừa",
+      "Nêm nước mắm, đường, thêm lá chanh",
+      "Đảo đều, rắc rau răm"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Bún mắm",
+    "imageUrl": "https://images.pexels.com/photos/699953/pexels-photo-699953.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món nước",
+    "time": "50 phút",
+    "servings": "2 người",
+    "calories": 480,
+    "ingredients": [
+      "300g bún tươi",
+      "Mắm cá linh",
+      "Tôm, mực, thịt quay",
+      "Cà tím, đậu bắp",
+      "Rau sống, chanh"
+    ],
+    "steps": [
+      "Nấu nước dùng từ mắm cá linh",
+      "Cho cà tím, đậu bắp vào nấu chín",
+      "Luộc tôm, mực riêng",
+      "Trụng bún, xếp hải sản và thịt quay",
+      "Chan nước mắm, ăn kèm rau sống"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Cháo vịt",
+    "imageUrl": "https://images.pexels.com/photos/1731535/pexels-photo-1731535.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món nước",
+    "time": "70 phút",
+    "servings": "3 người",
+    "calories": 380,
+    "ingredients": [
+      "1/2 con vịt",
+      "200g gạo",
+      "Gừng, hành tím",
+      "Rau mùi, hành lá",
+      "Tiêu, nước mắm"
+    ],
+    "steps": [
+      "Làm sạch vịt, luộc với gừng",
+      "Lấy nước luộc nấu cháo",
+      "Chặt vịt miếng, phi hành tím",
+      "Múc cháo ra tô, xếp thịt vịt lên",
+      "Rắc hành, rau mùi, tiêu"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Bánh tráng trộn",
+    "imageUrl": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Khai vị",
+    "time": "15 phút",
+    "servings": "2 người",
+    "calories": 250,
+    "ingredients": [
+      "200g bánh tráng cắt sợi",
+      "Trứng cút, khô bò",
+      "Xoài xanh, rau răm",
+      "Đậu phộng, hành phi",
+      "Sốt me, tương ớt"
+    ],
+    "steps": [
+      "Cắt nhỏ bánh tráng",
+      "Luộc trứng cút, bổ đôi",
+      "Trộn bánh tráng với khô bò, xoài",
+      "Thêm sốt me và tương ớt",
+      "Rắc đậu phộng, hành phi, rau răm"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Mì xào hải sản",
+    "imageUrl": "https://images.pexels.com/photos/3026808/pexels-photo-3026808.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món chính",
+    "time": "25 phút",
+    "servings": "2 người",
+    "calories": 420,
+    "ingredients": [
+      "200g mì vàng",
+      "200g hải sản tổng hợp",
+      "Cải ngọt, cà rốt",
+      "Xì dầu, dầu hào",
+      "Tỏi, hành"
+    ],
+    "steps": [
+      "Trụng mì qua nước sôi, để ráo",
+      "Xào hải sản với tỏi, để riêng",
+      "Xào mì với xì dầu lửa lớn",
+      "Thêm rau củ và hải sản vào",
+      "Nêm dầu hào, đảo đều"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Chè trôi nước",
+    "imageUrl": "https://images.pexels.com/photos/1099680/pexels-photo-1099680.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Tráng miệng",
+    "time": "40 phút",
+    "servings": "4 người",
+    "calories": 240,
+    "ingredients": [
+      "200g bột nếp",
+      "100g đậu xanh",
+      "Gừng, đường",
+      "Nước cốt dừa",
+      "Mè rang"
+    ],
+    "steps": [
+      "Nấu nhân đậu xanh với đường",
+      "Nhào bột nếp, bọc nhân vo tròn",
+      "Luộc bánh trong nước sôi đến nổi",
+      "Nấu nước đường gừng",
+      "Múc bánh ra, chan nước gừng và cốt dừa"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Thịt bò xào ớt chuông",
+    "imageUrl": "https://images.pexels.com/photos/3535383/pexels-photo-3535383.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món chính",
+    "time": "20 phút",
+    "servings": "2 người",
+    "calories": 320,
+    "ingredients": [
+      "250g thịt bò",
+      "2 quả ớt chuông",
+      "Hành tây, tỏi",
+      "Xì dầu, dầu hào",
+      "Tiêu, dầu mè"
+    ],
+    "steps": [
+      "Thái bò lát mỏng, ướp xì dầu và tiêu",
+      "Cắt ớt chuông và hành tây miếng vuông",
+      "Xào bò lửa lớn nhanh tay, để riêng",
+      "Xào ớt chuông và hành tây",
+      "Cho bò vào, nêm dầu hào, rưới dầu mè"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Canh bí đỏ nấu tôm",
+    "imageUrl": "https://images.pexels.com/photos/1731535/pexels-photo-1731535.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món nước",
+    "time": "25 phút",
+    "servings": "4 người",
+    "calories": 120,
+    "ingredients": [
+      "300g bí đỏ",
+      "150g tôm tươi",
+      "Hành lá, rau mùi",
+      "Nước mắm, tiêu",
+      "Hành tím phi"
+    ],
+    "steps": [
+      "Gọt vỏ bí đỏ, cắt miếng vừa",
+      "Lột vỏ tôm, ướp chút muối",
+      "Nấu nước sôi, cho bí vào nấu mềm",
+      "Thêm tôm, nêm nước mắm",
+      "Rắc hành lá, rau mùi và tiêu"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Xôi xéo",
+    "imageUrl": "https://images.pexels.com/photos/5836649/pexels-photo-5836649.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món chính",
+    "time": "50 phút",
+    "servings": "2 người",
+    "calories": 450,
+    "ingredients": [
+      "300g gạo nếp",
+      "100g đậu xanh",
+      "Hành phi, mỡ gà",
+      "Nghệ, muối",
+      "Ruốc, pate (tùy chọn)"
+    ],
+    "steps": [
+      "Ngâm nếp và đậu xanh qua đêm",
+      "Hấp nếp với nghệ tạo màu vàng",
+      "Hấp đậu xanh riêng, tán nhuyễn",
+      "Xếp xôi ra đĩa, rắc đậu xanh lên",
+      "Rưới mỡ gà, hành phi, thêm ruốc"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Cà ri gà",
+    "imageUrl": "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món nước",
+    "time": "55 phút",
+    "servings": "4 người",
+    "calories": 450,
+    "ingredients": [
+      "500g thịt gà",
+      "Khoai tây, cà rốt",
+      "Bột cà ri, sả",
+      "Nước cốt dừa",
+      "Bánh mì hoặc bún"
+    ],
+    "steps": [
+      "Chặt gà miếng, ướp bột cà ri và sả",
+      "Xào gà săn với dầu ăn",
+      "Thêm khoai tây, cà rốt và nước",
+      "Hầm 30 phút đến khi mềm",
+      "Đổ nước cốt dừa, nấu thêm 10 phút"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Nem nướng Nha Trang",
+    "imageUrl": "https://images.pexels.com/photos/2313686/pexels-photo-2313686.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "type": "Món chính",
+    "time": "45 phút",
+    "servings": "3 người",
+    "calories": 380,
+    "ingredients": [
+      "400g thịt heo xay",
+      "Mỡ heo, tỏi",
+      "Bánh tráng, bún",
+      "Rau sống, dưa leo",
+      "Nước chấm đặc biệt"
+    ],
+    "steps": [
+      "Xay thịt với mỡ, tỏi và gia vị",
+      "Vo viên hoặc xiên que",
+      "Nướng trên than hoa đến vàng",
+      "Cuốn nem với bánh tráng, bún, rau",
+      "Chấm nước mắm pha đặc biệt"
+    ]
+  }
+]
