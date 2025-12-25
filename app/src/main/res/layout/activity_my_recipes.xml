@@ -37,9 +37,66 @@
             android:textColor="@color/text_primary"
             android:gravity="center" />
 
-        <View
+        <ImageView
+            android:id="@+id/btnDelete"
             android:layout_width="24dp"
-            android:layout_height="24dp" />
+            android:layout_height="24dp"
+            android:src="@drawable/ic_delete"
+            app:tint="@color/text_primary"
+            android:contentDescription="Delete recipes"
+            android:padding="4dp"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:clickable="true"
+            android:focusable="true" />
+    </LinearLayout>
+
+    <!-- Delete Action Bar -->
+    <LinearLayout
+        android:id="@+id/deleteActionBar"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:paddingHorizontal="16dp"
+        android:background="@color/card_background"
+        android:elevation="4dp"
+        android:visibility="gone"
+        app:layout_constraintTop_toBottomOf="@id/header">
+        
+        <TextView
+            android:id="@+id/tvSelectedCount"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Đã chọn: 0"
+            android:textSize="16sp"
+            android:textColor="@color/text_primary" />
+        
+        <TextView
+            android:id="@+id/btnCancelDelete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="16dp"
+            android:text="Hủy"
+            android:textSize="16sp"
+            android:textColor="@color/text_secondary"
+            android:padding="8dp"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:clickable="true"
+            android:focusable="true" />
+        
+        <TextView
+            android:id="@+id/btnConfirmDelete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Xóa"
+            android:textSize="16sp"
+            android:textColor="@android:color/holo_red_dark"
+            android:textStyle="bold"
+            android:padding="8dp"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:clickable="true"
+            android:focusable="true" />
     </LinearLayout>
 
     <!-- Content -->
@@ -49,7 +106,7 @@
         android:layout_height="0dp"
         android:padding="12dp"
         android:clipToPadding="false"
-        app:layout_constraintTop_toBottomOf="@id/header"
+        app:layout_constraintTop_toBottomOf="@id/deleteActionBar"
         app:layout_constraintBottom_toBottomOf="parent"
         tools:listitem="@layout/item_recipe" />
 
@@ -61,7 +118,7 @@
         android:orientation="vertical"
         android:gravity="center"
         android:visibility="gone"
-        app:layout_constraintTop_toBottomOf="@id/header"
+        app:layout_constraintTop_toBottomOf="@id/deleteActionBar"
         app:layout_constraintBottom_toBottomOf="parent">
 
         <ImageView

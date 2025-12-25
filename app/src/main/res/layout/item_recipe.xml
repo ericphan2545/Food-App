@@ -36,6 +36,22 @@
                 android:src="@drawable/ic_favorite_filled"
                 android:visibility="gone"
                 android:contentDescription="Favorite" />
+            
+            <!-- Checkbox for selection mode -->
+            <CheckBox
+                android:id="@+id/cbSelect"
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:layout_gravity="top|end"
+                android:layout_margin="6dp"
+                android:visibility="gone"
+                android:scaleX="0.75"
+                android:scaleY="0.75"
+                android:padding="1dp"
+                android:minWidth="0dp"
+                android:minHeight="0dp"
+                android:background="@drawable/checkbox_background"
+                android:buttonTint="@color/text_primary" />
         </FrameLayout>
 
         <!-- Recipe Info -->
